@@ -1,0 +1,7 @@
+.cadetbox{
+    width: 33%;
+    height: 200px;
+    background-color: cadetblue;
+    float: left;
+    user-select: none;
+}

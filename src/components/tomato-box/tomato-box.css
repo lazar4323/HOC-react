@@ -1,0 +1,7 @@
+.tomatobox{
+    width: 33%;
+    height: 200px;
+    background-color: tomato;
+    float: left;
+    user-select: none;
+}
